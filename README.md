@@ -96,8 +96,10 @@ From a complete power converter (H-bridge) and a STM32G474RE board, the followin
 
 ## 👨‍💻 Authors
 
-- **Selim FARCI** – Embedded Systems Engineering Student @ ENSEA  
-- **Loïc MENORET** – Embedded Systems Engineering Student @ ENSEA
+- **Selim Farci** – Embedded Systems Engineering Student @ ENSEA  
+- **Loïc Mennoret** – Embedded Systems Engineering Student @ ENSEA  
+- **Nicolas Papazoglou** – Project supervisor and academic advisor @ ENSEA
+
 
 
 ## 🪪 License
